@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_VERBOSE_MAKEFILE=ON -DCMAKE_INCLUDE_PATH=/opt/homebrew/include;/opt/homebrew/include/websocketpp;/opt/homebrew/src;/opt/homebrew/ -G Ninja -S /Users/dev/CLionProjects/MarketMaking -B /Users/dev/CLionProjects/MarketMaking/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/dev/CLionProjects/MarketMaking/cmake-build-debug

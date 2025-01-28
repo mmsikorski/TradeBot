@@ -1,0 +1,21 @@
+# ninja log v6
+18	988	1736530674587833558	CMakeFiles/MarketMaking.dir/main.cpp.o	d428e7bad66bf4ba
+2857	2929	1736530677426363889	MarketMaking	667f843fb1018d6b
+1	7	1736530674417853591	clean	ad90e366ad70d77b
+18	2856	1736530674588127555	CMakeFiles/MarketMaking.dir/handler/StockExchangeHandler.cpp.o	9ce91ba335410477
+13	22	1736539134030700314	clean	ad90e366ad70d77b
+9	283	1736539134223689850	CMakeFiles/MarketMaking.dir/handler/StockDataStorageInMemory.cpp.o	43d5717587dc4571
+9	1330	1736539134223210685	CMakeFiles/MarketMaking.dir/main.cpp.o	d428e7bad66bf4ba
+9	3789	1736539134223538434	CMakeFiles/MarketMaking.dir/handler/StockExchangeHandler.cpp.o	9ce91ba335410477
+1	7	1736539188713349475	clean	ad90e366ad70d77b
+6	255	1736539188869370291	CMakeFiles/MarketMaking.dir/handler/StockDataStorageInMemory.cpp.o	43d5717587dc4571
+6	1219	1736539188868927959	CMakeFiles/MarketMaking.dir/main.cpp.o	d428e7bad66bf4ba
+6	3613	1736539188869217874	CMakeFiles/MarketMaking.dir/handler/StockExchangeHandler.cpp.o	9ce91ba335410477
+1	7	1736541387412154930	clean	ad90e366ad70d77b
+8	281	1736541387573768549	CMakeFiles/MarketMaking.dir/handler/StockDataStorageInMemory.cpp.o	43d5717587dc4571
+7	1334	1736541387573207874	CMakeFiles/MarketMaking.dir/main.cpp.o	d428e7bad66bf4ba
+7	3858	1736541387573599505	CMakeFiles/MarketMaking.dir/handler/StockExchangeHandler.cpp.o	9ce91ba335410477
+3858	3951	1736541391424700329	MarketMaking	4b7e2bbda041137c
+24	1351	1736954358464294589	CMakeFiles/MarketMaking.dir/main.cpp.o	d428e7bad66bf4ba
+25	3583	1736954358464615884	CMakeFiles/MarketMaking.dir/handler/StockExchangeHandler.cpp.o	9ce91ba335410477
+3583	3671	1736954362023512268	MarketMaking	4b7e2bbda041137c
